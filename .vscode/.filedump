@@ -1,0 +1,6 @@
+
+		begin
+      f = addfile("/Users/yuta/COAWST/Data/Shiraho_reef/frc_freshwater_SGD_test.nc","r")
+      print(f)
+		end
+    
